@@ -4,10 +4,10 @@ cd ArchMyLinux/
 
 sudo pacman -S --needed -< paclist.txt
 
-sudo systemctl enable bluetooth.service
-
-sudo systemctl start bluetooth.service
-
 sudo systemctl enable sddm.service
 
 reboot
+
+sudo systemctl start NetworkManager
+
+sudo systemctl start bluetooth.service
