@@ -3,12 +3,29 @@ plasma-desktop
 plasma-nm
 plasma-pa
 kde-gtk-config
-sddm sddm-kcm
+sddm
 plasma-wayland-session
 egl-wayland
+ufw
 inter-font
 ttf-fira-code
+ttf-jetbrains-mono-nerd
 ttf-fira-mono
 ttf-roboto
 alacritty
 firefox
+dolphin
+ark
+p7zip
+unrar
+tar
+rsync
+neofetch
+htop
+exfat-utils
+fuse-exfat
+ntfs-3g
+flac
+jasper aria2
+jdk-openjdk
+vlc
