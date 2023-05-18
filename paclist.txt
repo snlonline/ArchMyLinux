@@ -1,0 +1,14 @@
+plasma
+plasma-desktop
+plasma-nm
+plasma-pa
+kde-gtk-config
+sddm sddm-kcm
+plasma-wayland-session
+egl-wayland
+inter-font
+ttf-fira-code
+ttf-fira-mono
+ttf-roboto
+alacritty
+firefox
