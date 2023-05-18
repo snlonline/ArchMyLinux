@@ -26,6 +26,4 @@ exfat-utils
 fuse-exfat
 ntfs-3g
 flac
-jasper aria2
-jdk-openjdk
 vlc
