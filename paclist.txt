@@ -26,4 +26,3 @@ exfat-utils
 fuse-exfat
 ntfs-3g
 flac
-vlc
