@@ -1,4 +1,13 @@
+bluez-utils
 plasma
+bluetooth-support
+bluez
+bluez-hid2hci
+bluez-libs
+bluez-plugins
+bluez-tools
+egl-wayland
+eglexternalplatform
 plasma-desktop
 plasma-nm
 plasma-pa
