@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Common.DomainDriven.Domain">
+        <HintPath>..\..\..\..\.nuget\packages\redpanda.common.domaindriven.domain\0.1.4\lib\net6.0\Common.DomainDriven.Domain.dll</HintPath>
+      </Reference>
+      <Reference Include="FluentValidation">
+        <HintPath>..\..\..\..\.nuget\packages\fluentvalidation\11.1.0\lib\net6.0\FluentValidation.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

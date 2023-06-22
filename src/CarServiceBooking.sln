@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceBooking.API", "CarServiceBooking.API\CarServiceBooking.API.csproj", "{13951214-E5B6-4F93-B52B-C759CB6323C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceBooking.Application", "CarServiceBooking.Application\CarServiceBooking.Application.csproj", "{6717FF08-65A5-4601-8854-FDA1F849D4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceBooking.Domain", "CarServiceBooking.Domain\CarServiceBooking.Domain.csproj", "{474CB8CF-B4EB-4588-AF73-A4750DFA9CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceBooking.Infrastructure", "CarServiceBooking.Infrastructure\CarServiceBooking.Infrastructure.csproj", "{167AFF39-23AB-42AA-8976-F1A97DD61ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13951214-E5B6-4F93-B52B-C759CB6323C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13951214-E5B6-4F93-B52B-C759CB6323C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13951214-E5B6-4F93-B52B-C759CB6323C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13951214-E5B6-4F93-B52B-C759CB6323C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6717FF08-65A5-4601-8854-FDA1F849D4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6717FF08-65A5-4601-8854-FDA1F849D4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6717FF08-65A5-4601-8854-FDA1F849D4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6717FF08-65A5-4601-8854-FDA1F849D4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474CB8CF-B4EB-4588-AF73-A4750DFA9CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474CB8CF-B4EB-4588-AF73-A4750DFA9CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474CB8CF-B4EB-4588-AF73-A4750DFA9CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474CB8CF-B4EB-4588-AF73-A4750DFA9CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167AFF39-23AB-42AA-8976-F1A97DD61ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167AFF39-23AB-42AA-8976-F1A97DD61ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167AFF39-23AB-42AA-8976-F1A97DD61ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167AFF39-23AB-42AA-8976-F1A97DD61ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
